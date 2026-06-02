@@ -45,5 +45,5 @@ This project analyzes bank loan data using SQL Server and Tableau to identify lo
 
 ## Author
 
-Nikhil Vishwakarma
-Aspiring Data Analyst | SQL | Tableau | Power BI | Python
+Abhishek Yadav
+Aspiring Data Analyst | SQL | Tableau | 
